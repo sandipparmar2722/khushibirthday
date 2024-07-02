@@ -51,7 +51,7 @@
     width: 100%;
     height: 100%;
     z-index: 999;
-    background: url(img/back.png) center no-repeat #000;
+    background: url(back.png) center no-repeat #000;
 }
 
 .song {
@@ -76,7 +76,7 @@ img {
 .area {
     text-align: center;
     font-size: 50px;
-    color: #C4515C;
+    color: #000000;
     letter-spacing: -7px;
     font-weight: 500;
     text-transform: uppercase;
